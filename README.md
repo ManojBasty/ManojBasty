@@ -89,15 +89,7 @@ Improving DSA + system design
 
 Preparing for developer roles
 
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ManojBasty&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ManojBasty&layout=compact)
 
 
 
