@@ -91,7 +91,10 @@ Preparing for developer roles
 
 ## 📊 GitHub Stats
 
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojBasty&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojBasty&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojBasty&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojBasty&layout=compact)
+
 
