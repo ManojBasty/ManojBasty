@@ -49,7 +49,7 @@ Tools
 
 Git & GitHub
 
-Postman
+Thunder Client 
 
 VS Code / WebStorm
 
@@ -76,8 +76,6 @@ Projects around playlist syncing, music platform integration, and secure user au
 🪞 Smart Fashion Mirror
 
 AR-based project that allows users to try outfits virtually.
-
-(Add repo links once pinned)
 
 📈 What I'm Focused On (2026)
 
